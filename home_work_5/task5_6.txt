@@ -1,0 +1,4 @@
+maths: 25(lect) 50(pract) 25(lab)
+physics: 20(lect) 30(pract)
+chemistry: 15(lect) 60(lab)
+literature: 5(lect) 60(pract)
